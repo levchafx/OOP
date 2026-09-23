@@ -1,0 +1,7 @@
+Sakovich programmer 8
+Ivanov manager 3
+Petrov analyst 5
+Sidorov tester 2
+Kuznetsov engineer 10
+Smirnov designer 4
+Volkov director 15
